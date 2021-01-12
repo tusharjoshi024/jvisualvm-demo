@@ -88,11 +88,11 @@ We can see the list of threads spawned by our application.
 **4. To check thread dumps -** 
     
     4.1. Click on the "Thread Dump" button.
-    <img src="img/dmp_button.png" width="750">
+<img src="img/dmp_button.png" width="750">
     
     4.2. Dumps are opened in new tab, after navigating to this new tab, we can see thread dumps for our application
-     <img src="img/dump_heavy.png" width="750">
-     <img src="img/dump_light.png" width="750">
+<img src="img/dump_heavy.png" width="750">
+<img src="img/dump_light.png" width="750">
  
 **5. To determine which java code is causing spikes in CPU utilization, we can follow these steps -** 
  <img src="img/CPU_Utilization_by_process.png" width="750">
